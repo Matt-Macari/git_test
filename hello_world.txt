@@ -1,0 +1,2 @@
+You can us git add . to add all files in the current 
+directory and subsequent directories to the staging area
